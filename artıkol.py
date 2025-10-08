@@ -1,1 +1,0 @@
-print("Ayşe Naz'ın işi halloldu")
